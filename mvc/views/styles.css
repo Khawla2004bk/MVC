@@ -1,0 +1,27 @@
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 600px; 
+            margin: 0 auto; 
+            padding: 20px; 
+        }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+        }
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 8px; 
+            text-align: left; 
+        }
+        form { 
+            margin-bottom: 20px; 
+        }
+        input, textarea { 
+            width: 100%; 
+            margin-bottom: 10px; 
+            padding: 5px; 
+        }
+        .delete { 
+            color: red; 
+            text-decoration: none; 
+        }
